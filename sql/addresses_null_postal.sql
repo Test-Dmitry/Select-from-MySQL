@@ -1,0 +1,1 @@
+SELECT * FROM address WHERE postal_code IS NULL ORDER BY address_id ASC;
